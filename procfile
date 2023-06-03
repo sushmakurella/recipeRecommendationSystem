@@ -1,1 +1,0 @@
-web: gunicorn recipeRecommendation.wsgi.apllication --log-file -
